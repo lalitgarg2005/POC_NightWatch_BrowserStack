@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="3"
+            failures="0"
+            tests="1">
+
+  <testsuite name="testLogin"
+    errors="3" failures="0" hostname="" id="" package="testLogin" skipped="0"
+    tests="1" time="17.81" timestamp="">
+  
+    <testcase name="1: Login to RFX AE" classname="testLogin" time="17.81" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
